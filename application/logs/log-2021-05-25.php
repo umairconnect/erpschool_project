@@ -1,0 +1,31 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-05-25 01:17:41 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-05-25 02:10:33 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-05-25 02:10:34 --> 404 Page Not Found: Wordpress/wp-login.php
+ERROR - 2021-05-25 02:10:34 --> 404 Page Not Found: Blog/wp-login.php
+ERROR - 2021-05-25 02:10:35 --> 404 Page Not Found: Wp/wp-login.php
+ERROR - 2021-05-25 03:40:28 --> 404 Page Not Found: Th1s_1s_a_4o4html/index
+ERROR - 2021-05-25 05:36:08 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-05-25 11:26:03 --> 404 Page Not Found: Wp-includes/wlwmanifest.xml
+ERROR - 2021-05-25 11:26:04 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2021-05-25 11:26:05 --> 404 Page Not Found: Blog/wp-includes
+ERROR - 2021-05-25 11:26:05 --> 404 Page Not Found: Web/wp-includes
+ERROR - 2021-05-25 11:26:06 --> 404 Page Not Found: Wordpress/wp-includes
+ERROR - 2021-05-25 11:26:06 --> 404 Page Not Found: Website/wp-includes
+ERROR - 2021-05-25 11:26:07 --> 404 Page Not Found: Wp/wp-includes
+ERROR - 2021-05-25 11:26:07 --> 404 Page Not Found: News/wp-includes
+ERROR - 2021-05-25 11:26:08 --> 404 Page Not Found: 2020/wp-includes
+ERROR - 2021-05-25 11:26:08 --> 404 Page Not Found: 2019/wp-includes
+ERROR - 2021-05-25 11:26:10 --> 404 Page Not Found: Shop/wp-includes
+ERROR - 2021-05-25 11:26:10 --> 404 Page Not Found: Wp1/wp-includes
+ERROR - 2021-05-25 11:26:11 --> 404 Page Not Found: Test/wp-includes
+ERROR - 2021-05-25 11:26:11 --> 404 Page Not Found: Wp2/wp-includes
+ERROR - 2021-05-25 11:26:12 --> 404 Page Not Found: Site/wp-includes
+ERROR - 2021-05-25 11:26:13 --> 404 Page Not Found: Cms/wp-includes
+ERROR - 2021-05-25 11:26:13 --> 404 Page Not Found: Sito/wp-includes
+ERROR - 2021-05-25 14:15:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-05-25 15:51:24 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-05-25 17:14:19 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-05-25 18:21:26 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-05-25 18:21:47 --> 404 Page Not Found: Faviconico/index

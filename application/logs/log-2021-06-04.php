@@ -1,0 +1,64 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-06-04 01:46:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-04 02:05:59 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-06-04 02:05:59 --> 404 Page Not Found: Wordpress/wp-login.php
+ERROR - 2021-06-04 02:06:00 --> 404 Page Not Found: Blog/wp-login.php
+ERROR - 2021-06-04 02:06:00 --> 404 Page Not Found: Wp/wp-login.php
+ERROR - 2021-06-04 03:36:29 --> 404 Page Not Found: Th1s_1s_a_4o4html/index
+ERROR - 2021-06-04 05:11:50 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-06-04 05:23:05 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-06-04 05:23:34 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-06-04 09:38:37 --> 404 Page Not Found: Wp-includes/wlwmanifest.xml
+ERROR - 2021-06-04 09:38:38 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2021-06-04 09:38:39 --> 404 Page Not Found: Blog/wp-includes
+ERROR - 2021-06-04 09:38:39 --> 404 Page Not Found: Web/wp-includes
+ERROR - 2021-06-04 09:38:40 --> 404 Page Not Found: Wordpress/wp-includes
+ERROR - 2021-06-04 09:38:41 --> 404 Page Not Found: Website/wp-includes
+ERROR - 2021-06-04 09:38:41 --> 404 Page Not Found: Wp/wp-includes
+ERROR - 2021-06-04 09:38:42 --> 404 Page Not Found: News/wp-includes
+ERROR - 2021-06-04 09:38:42 --> 404 Page Not Found: 2018/wp-includes
+ERROR - 2021-06-04 09:38:43 --> 404 Page Not Found: 2019/wp-includes
+ERROR - 2021-06-04 09:38:43 --> 404 Page Not Found: Shop/wp-includes
+ERROR - 2021-06-04 09:38:44 --> 404 Page Not Found: Wp1/wp-includes
+ERROR - 2021-06-04 09:38:45 --> 404 Page Not Found: Test/wp-includes
+ERROR - 2021-06-04 09:38:45 --> 404 Page Not Found: Media/wp-includes
+ERROR - 2021-06-04 09:38:46 --> 404 Page Not Found: Wp2/wp-includes
+ERROR - 2021-06-04 09:38:46 --> 404 Page Not Found: Site/wp-includes
+ERROR - 2021-06-04 09:38:47 --> 404 Page Not Found: Cms/wp-includes
+ERROR - 2021-06-04 09:38:47 --> 404 Page Not Found: Sito/wp-includes
+ERROR - 2021-06-04 11:53:12 --> 404 Page Not Found: Wp-includes/wlwmanifest.xml
+ERROR - 2021-06-04 11:53:12 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2021-06-04 11:53:13 --> 404 Page Not Found: Blog/wp-includes
+ERROR - 2021-06-04 11:53:14 --> 404 Page Not Found: Web/wp-includes
+ERROR - 2021-06-04 11:53:14 --> 404 Page Not Found: Wordpress/wp-includes
+ERROR - 2021-06-04 11:53:15 --> 404 Page Not Found: Website/wp-includes
+ERROR - 2021-06-04 11:53:16 --> 404 Page Not Found: Wp/wp-includes
+ERROR - 2021-06-04 11:53:16 --> 404 Page Not Found: News/wp-includes
+ERROR - 2021-06-04 11:53:17 --> 404 Page Not Found: 2018/wp-includes
+ERROR - 2021-06-04 11:53:17 --> 404 Page Not Found: 2019/wp-includes
+ERROR - 2021-06-04 11:53:18 --> 404 Page Not Found: Shop/wp-includes
+ERROR - 2021-06-04 11:53:18 --> 404 Page Not Found: Wp1/wp-includes
+ERROR - 2021-06-04 11:53:19 --> 404 Page Not Found: Test/wp-includes
+ERROR - 2021-06-04 11:53:19 --> 404 Page Not Found: Media/wp-includes
+ERROR - 2021-06-04 11:53:20 --> 404 Page Not Found: Wp2/wp-includes
+ERROR - 2021-06-04 11:53:20 --> 404 Page Not Found: Site/wp-includes
+ERROR - 2021-06-04 11:53:21 --> 404 Page Not Found: Cms/wp-includes
+ERROR - 2021-06-04 11:53:21 --> 404 Page Not Found: Sito/wp-includes
+ERROR - 2021-06-04 13:29:32 --> Severity: error --> Exception: Too few arguments to function Home::active_school_id_for_frontend(), 0 passed in /homepages/33/d852214702/htdocs/reputationclub/system/core/CodeIgniter.php on line 532 and exactly 1 expected /homepages/33/d852214702/htdocs/reputationclub/application/controllers/Home.php 240
+ERROR - 2021-06-04 14:05:48 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-04 14:08:28 --> 404 Page Not Found: Loginasp/index
+ERROR - 2021-06-04 14:08:30 --> 404 Page Not Found: Loginaspx/index
+ERROR - 2021-06-04 14:08:31 --> 404 Page Not Found: Logincfm/index
+ERROR - 2021-06-04 14:08:32 --> 404 Page Not Found: Logincgi/index
+ERROR - 2021-06-04 14:08:33 --> 404 Page Not Found: Loginhtm/index
+ERROR - 2021-06-04 14:08:34 --> 404 Page Not Found: Loginhtml/index
+ERROR - 2021-06-04 14:08:40 --> 404 Page Not Found: Loginphp/index
+ERROR - 2021-06-04 14:08:41 --> 404 Page Not Found: Adm/admin.php
+ERROR - 2021-06-04 14:08:47 --> 404 Page Not Found: Adm/admin.php
+ERROR - 2021-06-04 14:08:48 --> 404 Page Not Found: Admin/login.cfm
+ERROR - 2021-06-04 16:13:09 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-06-04 16:13:19 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-06-04 17:13:23 --> Severity: Warning --> include(superadmin/school_director/director_signup.php): failed to open stream: No such file or directory /homepages/33/d852214702/htdocs/reputationclub/application/views/backend/index.php 40
+ERROR - 2021-06-04 17:13:23 --> Severity: Warning --> include(): Failed opening 'superadmin/school_director/director_signup.php' for inclusion (include_path='.:/usr/lib/php7.4') /homepages/33/d852214702/htdocs/reputationclub/application/views/backend/index.php 40
+ERROR - 2021-06-04 18:39:33 --> 404 Page Not Found: Faviconico/index

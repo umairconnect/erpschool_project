@@ -1,0 +1,39 @@
+{
+    "name" : "Multi School",
+    "unique_identifier" : "multi-school",
+    "version" : "1.0",
+    "directories" :
+    [
+        {
+            "name" : "application/views/backend/superadmin/multi_school"
+        }
+    ],
+    "sql_file"  : "updater.php",
+    "files"     :
+    [
+        {
+            "root_directory"    : "uploads/addons/multi-school/controllers/Multischool.php",
+            "update_directory"  : "application/controllers/addons/Multischool.php"
+        },
+        {
+            "root_directory"    : "uploads/addons/multi-school/models/Multischool_model.php",
+            "update_directory"  : "application/models/addons/Multischool_model.php"
+        },
+        {
+            "root_directory"    : "uploads/addons/multi-school/views/index.php",
+            "update_directory"  : "application/views/backend/superadmin/multi_school/index.php"
+        },
+        {
+            "root_directory"    : "uploads/addons/multi-school/views/list.php",
+            "update_directory"  : "application/views/backend/superadmin/multi_school/list.php"
+        },
+        {
+            "root_directory"    : "uploads/addons/multi-school/views/create.php",
+            "update_directory"  : "application/views/backend/superadmin/multi_school/create.php"
+        },
+        {
+            "root_directory"    : "uploads/addons/multi-school/views/edit.php",
+            "update_directory"  : "application/views/backend/superadmin/multi_school/edit.php"
+        }
+    ]
+}

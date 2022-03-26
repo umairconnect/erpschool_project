@@ -1,0 +1,47 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-07-23 01:47:17 --> 404 Page Not Found: Well-known/acme-challenge
+ERROR - 2021-07-23 01:47:17 --> 404 Page Not Found: Well-known/acme-challenge
+ERROR - 2021-07-23 01:47:17 --> 404 Page Not Found: Well-known/acme-challenge
+ERROR - 2021-07-23 01:47:20 --> 404 Page Not Found: Well-known/acme-challenge
+ERROR - 2021-07-23 01:47:20 --> 404 Page Not Found: Well-known/acme-challenge
+ERROR - 2021-07-23 04:47:41 --> 404 Page Not Found: Well-known/acme-challenge
+ERROR - 2021-07-23 04:47:41 --> 404 Page Not Found: Well-known/acme-challenge
+ERROR - 2021-07-23 04:47:41 --> 404 Page Not Found: Well-known/acme-challenge
+ERROR - 2021-07-23 04:47:44 --> 404 Page Not Found: Well-known/acme-challenge
+ERROR - 2021-07-23 04:47:44 --> 404 Page Not Found: Well-known/acme-challenge
+ERROR - 2021-07-23 07:48:04 --> 404 Page Not Found: Well-known/acme-challenge
+ERROR - 2021-07-23 07:48:04 --> 404 Page Not Found: Well-known/acme-challenge
+ERROR - 2021-07-23 07:48:04 --> 404 Page Not Found: Well-known/acme-challenge
+ERROR - 2021-07-23 07:48:06 --> 404 Page Not Found: Well-known/acme-challenge
+ERROR - 2021-07-23 07:48:07 --> 404 Page Not Found: Well-known/acme-challenge
+ERROR - 2021-07-23 10:49:41 --> 404 Page Not Found: Well-known/acme-challenge
+ERROR - 2021-07-23 10:49:41 --> 404 Page Not Found: Well-known/acme-challenge
+ERROR - 2021-07-23 10:49:41 --> 404 Page Not Found: Well-known/acme-challenge
+ERROR - 2021-07-23 10:49:44 --> 404 Page Not Found: Well-known/acme-challenge
+ERROR - 2021-07-23 10:49:44 --> 404 Page Not Found: Well-known/acme-challenge
+ERROR - 2021-07-23 13:47:24 --> 404 Page Not Found: Well-known/acme-challenge
+ERROR - 2021-07-23 13:47:24 --> 404 Page Not Found: Well-known/acme-challenge
+ERROR - 2021-07-23 13:47:24 --> 404 Page Not Found: Well-known/acme-challenge
+ERROR - 2021-07-23 13:47:27 --> 404 Page Not Found: Well-known/acme-challenge
+ERROR - 2021-07-23 13:47:27 --> 404 Page Not Found: Well-known/acme-challenge
+ERROR - 2021-07-23 14:17:57 --> 404 Page Not Found: Unprotected/loader.html
+ERROR - 2021-07-23 12:09:08 --> Severity: error --> Exception: Call to undefined method Login::session_destroy() /home3/ddailyneeds/lms.com/application/controllers/Login.php 179
+ERROR - 2021-07-23 15:09:22 --> 404 Page Not Found: Uploads/ddailyneeds_sas
+ERROR - 2021-07-23 15:09:23 --> 404 Page Not Found: Uploads/ddailyneeds_sas
+ERROR - 2021-07-23 15:09:23 --> 404 Page Not Found: Uploads/ddailyneeds_sas
+ERROR - 2021-07-23 15:09:23 --> 404 Page Not Found: Uploads/ddailyneeds_sas
+ERROR - 2021-07-23 15:09:25 --> 404 Page Not Found: Uploads/ddailyneeds_sas
+ERROR - 2021-07-23 15:09:32 --> 404 Page Not Found: Uploads/ddailyneeds_sas
+ERROR - 2021-07-23 15:09:54 --> 404 Page Not Found: Assets/frontend
+ERROR - 2021-07-23 15:10:40 --> 404 Page Not Found: Uploads/ddailyneeds_ariful3010
+ERROR - 2021-07-23 15:10:40 --> 404 Page Not Found: Uploads/ddailyneeds_ariful3010
+ERROR - 2021-07-23 15:10:42 --> 404 Page Not Found: Uploads/ddailyneeds_ariful3010
+ERROR - 2021-07-23 15:10:42 --> 404 Page Not Found: Uploads/ddailyneeds_ariful3010
+ERROR - 2021-07-23 15:10:45 --> 404 Page Not Found: Uploads/ddailyneeds_ariful3010
+ERROR - 2021-07-23 15:10:52 --> 404 Page Not Found: Assets/frontend
+ERROR - 2021-07-23 15:10:52 --> 404 Page Not Found: Uploads/ddailyneeds_ariful3010
+ERROR - 2021-07-23 15:13:10 --> 404 Page Not Found: Assets/frontend
+ERROR - 2021-07-23 16:17:01 --> 404 Page Not Found: Assets/frontend
+ERROR - 2021-07-23 16:19:21 --> 404 Page Not Found: Assets/frontend
+ERROR - 2021-07-23 16:20:04 --> 404 Page Not Found: Assets/frontend

@@ -1,0 +1,34 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-06-05 01:50:09 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-05 03:33:53 --> 404 Page Not Found: Th1s_1s_a_4o4html/index
+ERROR - 2021-06-05 05:14:09 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-06-05 05:16:31 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-06-05 05:48:40 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-06-05 06:51:36 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-06-05 07:35:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-05 07:46:00 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-06-05 09:54:05 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-06-05 09:54:08 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-06-05 10:00:38 --> 404 Page Not Found: Wp-includes/wlwmanifest.xml
+ERROR - 2021-06-05 10:00:39 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2021-06-05 10:00:40 --> 404 Page Not Found: Blog/wp-includes
+ERROR - 2021-06-05 10:00:41 --> 404 Page Not Found: Web/wp-includes
+ERROR - 2021-06-05 10:00:41 --> 404 Page Not Found: Wordpress/wp-includes
+ERROR - 2021-06-05 10:00:42 --> 404 Page Not Found: Website/wp-includes
+ERROR - 2021-06-05 10:00:43 --> 404 Page Not Found: Wp/wp-includes
+ERROR - 2021-06-05 10:00:43 --> 404 Page Not Found: News/wp-includes
+ERROR - 2021-06-05 10:00:44 --> 404 Page Not Found: 2018/wp-includes
+ERROR - 2021-06-05 10:00:44 --> 404 Page Not Found: 2019/wp-includes
+ERROR - 2021-06-05 10:00:45 --> 404 Page Not Found: Shop/wp-includes
+ERROR - 2021-06-05 10:00:45 --> 404 Page Not Found: Wp1/wp-includes
+ERROR - 2021-06-05 10:00:46 --> 404 Page Not Found: Test/wp-includes
+ERROR - 2021-06-05 10:00:46 --> 404 Page Not Found: Media/wp-includes
+ERROR - 2021-06-05 10:00:47 --> 404 Page Not Found: Wp2/wp-includes
+ERROR - 2021-06-05 10:00:47 --> 404 Page Not Found: Site/wp-includes
+ERROR - 2021-06-05 10:00:48 --> 404 Page Not Found: Cms/wp-includes
+ERROR - 2021-06-05 10:00:48 --> 404 Page Not Found: Sito/wp-includes
+ERROR - 2021-06-05 17:36:25 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-06-05 17:49:41 --> 404 Page Not Found: Superadmin/director
+ERROR - 2021-06-05 17:51:13 --> 404 Page Not Found: Superadmin/director
+ERROR - 2021-06-05 17:52:26 --> 404 Page Not Found: Superadmin/director

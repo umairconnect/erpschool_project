@@ -1,0 +1,43 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-07-18 01:48:03 --> 404 Page Not Found: Well-known/acme-challenge
+ERROR - 2021-07-18 01:48:03 --> 404 Page Not Found: Well-known/acme-challenge
+ERROR - 2021-07-18 01:48:03 --> 404 Page Not Found: Well-known/acme-challenge
+ERROR - 2021-07-18 01:48:06 --> 404 Page Not Found: Well-known/acme-challenge
+ERROR - 2021-07-18 01:48:06 --> 404 Page Not Found: Well-known/acme-challenge
+ERROR - 2021-07-18 04:46:14 --> 404 Page Not Found: Well-known/acme-challenge
+ERROR - 2021-07-18 04:46:14 --> 404 Page Not Found: Well-known/acme-challenge
+ERROR - 2021-07-18 04:46:14 --> 404 Page Not Found: Well-known/acme-challenge
+ERROR - 2021-07-18 04:46:17 --> 404 Page Not Found: Well-known/acme-challenge
+ERROR - 2021-07-18 04:46:17 --> 404 Page Not Found: Well-known/acme-challenge
+ERROR - 2021-07-18 07:46:18 --> 404 Page Not Found: Well-known/acme-challenge
+ERROR - 2021-07-18 07:46:18 --> 404 Page Not Found: Well-known/acme-challenge
+ERROR - 2021-07-18 07:46:18 --> 404 Page Not Found: Well-known/acme-challenge
+ERROR - 2021-07-18 07:46:21 --> 404 Page Not Found: Well-known/acme-challenge
+ERROR - 2021-07-18 07:46:21 --> 404 Page Not Found: Well-known/acme-challenge
+ERROR - 2021-07-18 10:46:15 --> 404 Page Not Found: Well-known/acme-challenge
+ERROR - 2021-07-18 10:46:15 --> 404 Page Not Found: Well-known/acme-challenge
+ERROR - 2021-07-18 10:46:15 --> 404 Page Not Found: Well-known/acme-challenge
+ERROR - 2021-07-18 10:46:17 --> 404 Page Not Found: Well-known/acme-challenge
+ERROR - 2021-07-18 10:46:18 --> 404 Page Not Found: Well-known/acme-challenge
+ERROR - 2021-07-18 13:46:49 --> 404 Page Not Found: Well-known/acme-challenge
+ERROR - 2021-07-18 13:46:50 --> 404 Page Not Found: Well-known/acme-challenge
+ERROR - 2021-07-18 13:46:50 --> 404 Page Not Found: Well-known/acme-challenge
+ERROR - 2021-07-18 13:46:51 --> 404 Page Not Found: Well-known/acme-challenge
+ERROR - 2021-07-18 13:46:52 --> 404 Page Not Found: Well-known/acme-challenge
+ERROR - 2021-07-18 11:04:37 --> Severity: error --> Exception: Call to undefined method Login::session_destroy() /home3/ddailyneeds/lms.com/application/controllers/Login.php 179
+ERROR - 2021-07-18 16:46:59 --> 404 Page Not Found: Well-known/acme-challenge
+ERROR - 2021-07-18 16:46:59 --> 404 Page Not Found: Well-known/acme-challenge
+ERROR - 2021-07-18 16:46:59 --> 404 Page Not Found: Well-known/acme-challenge
+ERROR - 2021-07-18 16:47:02 --> 404 Page Not Found: Well-known/acme-challenge
+ERROR - 2021-07-18 16:47:02 --> 404 Page Not Found: Well-known/acme-challenge
+ERROR - 2021-07-18 19:47:04 --> 404 Page Not Found: Well-known/acme-challenge
+ERROR - 2021-07-18 19:47:04 --> 404 Page Not Found: Well-known/acme-challenge
+ERROR - 2021-07-18 19:47:04 --> 404 Page Not Found: Well-known/acme-challenge
+ERROR - 2021-07-18 19:47:08 --> 404 Page Not Found: Well-known/acme-challenge
+ERROR - 2021-07-18 19:47:08 --> 404 Page Not Found: Well-known/acme-challenge
+ERROR - 2021-07-18 22:45:54 --> 404 Page Not Found: Well-known/acme-challenge
+ERROR - 2021-07-18 22:45:54 --> 404 Page Not Found: Well-known/acme-challenge
+ERROR - 2021-07-18 22:45:54 --> 404 Page Not Found: Well-known/acme-challenge
+ERROR - 2021-07-18 22:45:57 --> 404 Page Not Found: Well-known/acme-challenge
+ERROR - 2021-07-18 22:45:57 --> 404 Page Not Found: Well-known/acme-challenge
